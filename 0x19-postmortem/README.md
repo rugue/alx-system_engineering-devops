@@ -1,3 +1,6 @@
+![image](https://github.com/rugue/alx-system_engineering-devops/assets/20070768/c74bcf46-74de-4b81-9136-513e78b24651)
+
+
 ## Postmortem: Login Service Outage on 2024-04-11
 
 **Issue Summary:**
